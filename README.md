@@ -1,1 +1,1 @@
-# HospitalManagementSystem
+This project named as Hospital management system. it is a software which is used to booking appointments and maintain hospital records. and it has three modules such as admin module,patient module,doctor module. Each module can perform perticular operations.
